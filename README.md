@@ -1,4 +1,4 @@
-#### 📊 HR Analytics Dashboard — Employee Attrition Analysis
+# 📊 HR Analytics Dashboard — Employee Attrition Analysis
 ### 📌 Project Overview
 
 - The HR Analytics Dashboard project focuses on analyzing employee data to identify key factors contributing to workforce attrition and organizational trends. The objective of this project is to transform raw HR data into meaningful insights using Microsoft Excel and interactive visualizations to support data-driven HR decision-making.
